@@ -419,7 +419,7 @@ http://localhost:3000
 
 ## Credits & Contact
 
-**Rifqi Susanto**
+**Rifqi**
 
 GitHub: [ki1bot](https://github.com/ki1bot)
 
